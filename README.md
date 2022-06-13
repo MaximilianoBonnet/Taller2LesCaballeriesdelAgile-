@@ -51,6 +51,8 @@ En ésta etapa realizamos el mapa de empatía tratando de conocer en profundidad
        4. Diseño de la solución 
 
                 4.1 MVP y Backlog de producto : Refieran al proceso (e imágenes de selección de funcionalidad para el MVP y lo que ha quedado en el backlog para referencia futura. 
+![image](https://github.com/MaximilianoBonnet/Taller2LesCaballeriesdelAgile-/blob/main/imagenes/userStoryMap.jpeg)
+
 
                 4.2 Prototipo: Refieran a imágenes del prototipo armado. 
 
