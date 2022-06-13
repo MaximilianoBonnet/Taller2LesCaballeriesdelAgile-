@@ -44,7 +44,7 @@ https://youtu.be/B3bbEYz-1OI
                3.2 Empatía con el potencial cliente: Describan el proceso de empatía que han hecho con su "persona". Adjunten la imagen de su mapa de empatía. 
 
 En ésta etapa realizamos el mapa de empatía tratando de conocer en profundidad a nuestro cliente ideal, recolectando información de aquello que dice y hace, piensa y siente, escucha y ve, pero también reconociendo a través de ello las necesidades que no exterioriza u omite nuestra herramienta persona o cliente ideal. Esta etapa fue fundamental para reconocer las características de la persona y en base a eso pensar la solución ideal. 
- ![image](https://github.com/MaximilianoBonnet/Taller2LesCaballeriesdelAgile-/blob/main/imagenes/background.jpeg)
+ ![image](https://github.com/MaximilianoBonnet/Taller2LesCaballeriesdelAgile-/blob/main/imagenes/jamboard.jpeg)
 
                3.3 Identificación de los interesados de su proyecto: Describan los interesados identificados y su rol dentro del proyecto 
 
